@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">طاقم القوة</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="app_descraption">ابقَ متصلًا، وابـقَ محميًا.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="welcome_back">اهلا بعوديتك</string>
+    <string name="Login">تسجيل الدخول</string>
+    <string name="enter_your_phone">ادخل رقم هاتفك</string>
+    <string name="login_to_continue_using_the_app">سجل الدخول لإستخدام التطبيق</string>
+    <string name="phone">الهاتف</string>
+    <string name="password">كلمة المرور</string>
+    <string name="enter_your_password">برجاء إدخال كلمو المرور</string>
+    <string name="forget_password">نسيت كلمة السر؟</string>
+    <string name="don_t_have_an_account">ليس لديك حساب؟ </string>
+    <string name="register">التسجيل</string>
+    <string name="enter_your_personal_information">أدخل بياناتك الشخصية</string>
+    <string name="fullName">إسمك بالكامل</string>
+    <string name="enter_your_full_name">برجاء إدخال اسمك بالكامل </string>
+    <string name="email">البريد الإلكتروني</string>
+    <string name="enter_your_email">برجاء إدخال بريدك الإلكتروني</string>
+
+    <!-- Registration -->
+    <string name="error_empty_name_en">برجاء إدخال اسمك</string>
+    <string name="error_invalid_phone_en">يجب ان يكون رقم الهاتف مكزن من 11 رقم</string>
+    <string name="error_short_password_en">يجب أن تكون كلمة المرور أكثر من 6 أحرف</string>
+    <string name="error_email">بريد إلكتروني غير صحيح </string>
+    <string name="success_signup_en">Sign-up successful</string>
+    <string name="phone_dosnt_exist">هذا الرقم غير معرف لدينا</string>
+    <string name="please_enter_your_password">برجاء إدخال كلمة المرور</string>
+    <string name="registration_succefully">تم التسجيل بنجاح </string>
+    <string name="not_found">not found</string>
+    <string name="choose_your_area">اختار مدينتك ؟</string>
+    <string name="please_enter_city_name">برجاء إدخال اسم المدينة</string>
+    <string name="problem_title">عنوان المشكلة</string>
+    <string name="problem_description">وصف المشكلة</string>
+    <string name="problem_address">موقع المشكلة</string>
+    <string name="select_engineer">اختار المشكلة</string>
+    <string name="submit_btn">إبلاغ</string>
+    <string name="engineers">المهندسين</string>
+    <string name="please_enter_engineer_name">من فضلك ادخل اسم المهندس ؟</string>
+    <string name="problem_pending_state">Pending</string>
+    <string name="sent_problem_succefully">تم إبلاغ المشكلة بنجاح</string>
+    <string name="language">اللغة</string>
+    <string name="settings">الاعدادت</string>
+    <string name="about_us">عننا</string>
+    <string name="in_progress_problems">إبلاغات قيد الحل</string>
+    <string name="have_a_nice_day">استمتع بيوم جميل</string>
+    <string name="select_problem_type">اختر نوع المشكلة </string>
+    <string name="report_a_problem">الإبلاغ عن مشكلة</string>
+    <string name="pending_problems">إلإبلاغات المعلقة</string>
+    <string name="completed_problems">الإبلاغات المكتملة</string>
+    <string name="no_problem_found">لا يوجد بلاغات </string>
+    <string name="problem_details">تفاصيل المشكلة  </string>
+    <string name="date">التاريخ</string>
+    <string name="title">العنوان:</string>
+    <string name="address">الموقع:</string>
+    <string name="statue">الحالة:</string>
+    <string name="engineer_info">معلومات المهندس </string>
+    <string name="edit">Edit</string>
+    <string name="change_password">تغيير كلمة المرور</string>
+    <string name="logout">الخروج</string>
+    <string name="change_city">تغيير المدينة</string>
+    <string name="profile">الحساب الشخصي</string>
+    <string name="change_phone">تغيير رقم التليفون</string>
+    <string name="new_phone_number">الرقم الجديد</string>
+    <string name="enter_your_new_phone">ادخل رقمك الجديد</string>
+    <string name="the_new_email_is_the_same_as_the_email">البريد الحالي يطابق البريد الجديد</string>
+    <string name="the_new_name_is_the_same_as_the_current_name">الاسم الحالي يطابق الاسم الجديد</string>
+    <string name="enter_your_old_password">ادخل كلمة المرور الحالية</string>
+    <string name="enter_your_new_password">ادخل كلمة المرور الجديدة</string>
+    <string name="the_new_password_is_the_same_the_old_password">كلمة المرور الحالية تطابق كلمة المرور الجديد</string>
+    <string name="select_a_language">اختار اللغة </string>
+    <string name="english">الانجليزية</string>
+    <string name="arabic">العربية</string>
+    <string name="welcome">مرحبًا %s</string>
+    <string name="name_ahmed">أحمد شاكر أبوستيت</string>
+    <string name="name_mohamed">محمد السيد عبدالحميد</string>
+    <string name="name_mostafa">مصطفى رابح هادي</string>
+    <string name="name_mohamed_salah">محمد صلاح إبراهيم</string>
+    <string name="name_youssef">يوسف عبدالناصر يوسف</string>
+    <string name="year">2025</string>
+    <string name="developed_by">تم التطوير بواسطة</string>
+    <string name="new_problem">New Problem</string>
+    <string name="the_power_has_been_disconnected">The power has been disconnected</string>
+    <string name="the_power_has_been_connected">The Power has been connected</string>
+
+</resources>
